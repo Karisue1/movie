@@ -1,10 +1,10 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Movie*
 
-Submitted by: **Your Name Here**
+Submitted by: **Karina Mora**
 
-**Name of your app** is a movie browsing app that... [TODO] 
+**Movie** is a movie browsing app that lists movies and their overviews.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
