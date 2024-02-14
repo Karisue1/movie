@@ -1,40 +1,39 @@
-# Project 2 - *Movie*
+# Project 3 - Movie 2
 
-Submitted by: **Karina Mora**
+Submitted by: Karina
 
-**Movie** is a movie browsing app that lists movies and their overviews.
+Movie 2 is an app that introduces a way to look at recent movies and the facts about them.
 
-Time spent: **3** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] Users are able to see a customized app icon and launch screen
-- [x] Displays at least 5 different movies in a table view
-- [x] Can tap into detail view of movie with a full description, backdrop image, and title
+- [x] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [x] App has a collection view with the same list of movies
+- [x] Uses a tab bar controller to switch between collection view and table view screens
  
 The following **optional** features are implemented:
 
-- [ ] Unique UI changes, such as background, font/color changes, etc.
-- [ ] User implements a collection view
-- [ ] User implemenets tab bar controller with at least two screens
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+- [ ] Make an additional network call to another end-point.	
+- [x] Allow users to scroll when context items are off-screen (table view implemention)
 
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
 <div>
-    <a href="https://www.loom.com/share/6e3598e9e1e8452c81d3b0abed3a8e6a">
-      </a>
-    <a href="https://www.loom.com/share/6e3598e9e1e8452c81d3b0abed3a8e6a">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6e3598e9e1e8452c81d3b0abed3a8e6a-with-play.gif">
+    <a href="https://www.loom.com/share/c6e42f2be40c40ca922b0a947780c535">
+    </a>
+    <a href="https://www.loom.com/share/c6e42f2be40c40ca922b0a947780c535">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c6e42f2be40c40ca922b0a947780c535-with-play.gif">
     </a>
   </div>
+Here's a walkthrough of implemented user stories:
+
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
